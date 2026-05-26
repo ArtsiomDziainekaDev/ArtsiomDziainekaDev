@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ArtsiomJavaDev&style=flat-square&color=007ACC" alt="Views"/>
+  <img src="https://komarev.com/ghpvc/?username=ArtsiomDziainekaDev&style=flat-square&color=007ACC" alt="Views"/>
 </div>
 
 # Hi, I'm Artsiom! 👋
