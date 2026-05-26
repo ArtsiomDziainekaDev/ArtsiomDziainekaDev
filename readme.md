@@ -42,16 +42,16 @@ I am especially interested in:
 
 ## Featured Project
 
-### CentralHub — ImporterWaPro
+### CentralHub — Polish HR & Payroll Automation
 
-Payroll automation system that connects an internal CRM with WaPro, validates employee and contract data, recalculates payroll values, and imports verified records into the payroll database.
+Payroll automation system that connects an internal CRM with a Polish HR and payroll system, validates employee and contract data, recalculates payroll values, and imports verified records into the payroll database.
 
 **Business impact:** replaced a repetitive manual data-entry workflow that could cost around **$30,000/year** in labor.
 
 **Key features:**
 
 - CRM data import through MySQL on AWS RDS and REST API
-- Microsoft SQL Server integration for WaPro
+- Microsoft SQL Server integration for Polish HR and payroll data
 - PESEL verification and duplicate import protection
 - dry-run mode before database writes
 - rollback support
@@ -67,8 +67,8 @@ Repository: [centralhub-fin-hr-suite](https://github.com/ArtsiomDziainekaDev/cen
 
 ## Selected Work
 
-- [CentralHub — ImporterWaPro](https://github.com/ArtsiomDziainekaDev/centralhub-fin-hr-suite)  
-  Business automation system for payroll data synchronization between CRM and WaPro.
+- [CentralHub — Polish HR & Payroll Automation](https://github.com/ArtsiomDziainekaDev/centralhub-fin-hr-suite)  
+  Business automation system for payroll data synchronization between CRM and Polish HR and payroll systems.
 
 - [Crypto Exchange Platform](https://github.com/ArtsiomDziainekaDev/aplikacja-mobilna)  
   Full-stack web and mobile exchange platform with authentication, PostgreSQL persistence, admin flows, and external rate APIs.
