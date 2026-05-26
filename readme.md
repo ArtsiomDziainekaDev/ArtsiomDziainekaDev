@@ -32,7 +32,7 @@ With a strong foundation in both enterprise architecture and agile microservices
 
 ---
 ### My website
-artsiom.dev
+htttps://artsiom.dev
 
 
 ### ⚡ What I am Looking For
