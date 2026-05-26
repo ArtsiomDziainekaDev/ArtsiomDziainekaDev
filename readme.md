@@ -1,45 +1,123 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300" style="border-radius: 8px;"/>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300" alt="Coding workspace animation" />
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ArtsiomDziainekaDev&style=flat-square&color=007ACC" alt="Views"/>
+  <img src="https://komarev.com/ghpvc/?username=ArtsiomDziainekaDev&style=flat-square&color=007ACC" alt="Profile views" />
 </div>
 
-# Hi, I'm Artsiom! 👋
+<h1 align="center">Hi, I'm Artsiom Dziaineka</h1>
 
-### 🚀 AI Automation Engineer | Full-Stack Integrations Developer
+<h3 align="center">
+  AI Automation Engineer | Backend Automation | API Integrations | Business Workflow Systems
+</h3>
 
-I am a Poland-based engineer specializing in building high-performance backend systems, third-party API integrations, and AI-driven business automations that eliminate manual labor and save companies thousands of dollars in operational costs.
+<p align="center">
+  I build automation systems that connect business tools, reduce manual work, and turn repetitive operations into reliable software workflows.
+</p>
 
-With a strong foundation in both enterprise architecture and agile microservices, I bridge the gap between complex business requirements and robust code.
-
----
-
-### 🛠️ Tech Stack & Expertise
-
-* Languages: Python, JavaScript, TypeScript (and a strong core background in Java).
-* Frameworks & Libraries: FastAPI, Django, Asyncio, HTTPX, Spring Boot, React.
-* Databases & Migrations: PostgreSQL, MySQL, SQL Server, SQLAlchemy, Alembic, Liquibase, AWS RDS.
-* DevOps & Tools: Docker, Docker Compose, Git, Jira, Linear.
-* Core Focus: REST API Design, Webhooks Processing, AI/LLM Integration (Structured Outputs), System Architecture, Background Tasks (Celery).
+<p align="center">
+  <a href="https://artsiom.dev">Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/artsiom-dziaineka-2b811829a">LinkedIn</a> ·
+  <a href="mailto:bden5353@gmail.com">Email</a>
+</p>
 
 ---
 
-### 📈 Proven Track Record
+## What I Build
 
-* [CentralHub — ImporterWaPro](https://github.com/ArtsiomJavaDev/centralhub-fin-hr-suite): Built a high-load payroll data bridge that automated complex B2B/B2C contract processing, reducing human error to 0% and saving the client $30,000/year in labor costs.
+I am a Poland-based engineer focused on backend automation, third-party API integrations, and AI-assisted business workflows.
+
+My work is centered around one practical goal: helping teams remove repetitive manual processes, reduce operational errors, and move business data safely between systems.
+
+I am especially interested in:
+
+- CRM, payroll, finance, HR, and internal operations automation
+- REST API integrations and webhook-based workflows
+- backend systems for business process automation
+- AI/LLM-assisted workflows with validation and structured outputs
+- desktop and web tools that connect legacy systems with modern APIs
 
 ---
-### My website
-htttps://artsiom.dev
 
+## Featured Project
 
-### ⚡ What I am Looking For
+### CentralHub — ImporterWaPro
 
-I am open to long-term Contract positions, Part-Time roles (approx. 20 hours/week), or Monthly Retainer partnerships with fast-paced startups, digital agencies, and e-commerce brands looking to:
-* Integrate LLMs (OpenAI/Claude) into their existing workflows safely and predictably.
-* Automate internal business processes and legacy system data syncs.
-* Build and scale robust, asynchronous REST APIs.
+Payroll automation system that connects an internal CRM with WaPro, validates employee and contract data, recalculates payroll values, and imports verified records into the payroll database.
 
-📬 Feel free to explore my repositories or reach out for collaboration!
+**Business impact:** replaced a repetitive manual data-entry workflow that could cost around **$30,000/year** in labor.
+
+**Key features:**
+
+- CRM data import through MySQL on AWS RDS and REST API
+- Microsoft SQL Server integration for WaPro
+- PESEL verification and duplicate import protection
+- dry-run mode before database writes
+- rollback support
+- Excel import profiles for payroll and employee data
+- encrypted credential storage with Windows DPAPI
+- custom Polish payroll/tax calculation logic
+
+**Tech stack:** Python, PyQt6, SQL Server, MySQL, AWS RDS, REST API, pandas, openpyxl, SQLAlchemy, pyodbc
+
+Repository: [centralhub-fin-hr-suite](https://github.com/ArtsiomDziainekaDev/centralhub-fin-hr-suite)
+
+---
+
+## Selected Work
+
+- [CentralHub — ImporterWaPro](https://github.com/ArtsiomDziainekaDev/centralhub-fin-hr-suite)  
+  Business automation system for payroll data synchronization between CRM and WaPro.
+
+- [Crypto Exchange Platform](https://github.com/ArtsiomDziainekaDev/aplikacja-mobilna)  
+  Full-stack web and mobile exchange platform with authentication, PostgreSQL persistence, admin flows, and external rate APIs.
+
+- [First REST API Project](https://github.com/ArtsiomDziainekaDev/FirstRestAPIproject)  
+  Java/Spring Boot backend foundation with PostgreSQL, authentication, and REST API architecture.
+
+- [PC Configurator](https://github.com/ArtsiomDziainekaDev/ConfiguratorPC-JavaFX)  
+  JavaFX desktop application for PC component configuration and structured UI logic practice.
+
+- [artsiom.dev Portfolio](https://github.com/ArtsiomDziainekaDev/artsiom-portfolio)  
+  Production-deployed portfolio built with Next.js, TypeScript, Tailwind CSS, Vercel, GitHub Actions, CodeQL, and Dependabot.
+
+---
+
+## Tech Stack
+
+**Languages:** Python, Java, TypeScript, JavaScript  
+**Backend:** FastAPI, Django, Spring Boot, REST APIs, webhooks, Celery  
+**Frontend:** React, Next.js, Tailwind CSS, PyQt6, JavaFX  
+**Databases:** PostgreSQL, MySQL, Microsoft SQL Server, AWS RDS  
+**Data & Automation:** pandas, openpyxl, SQLAlchemy, pyodbc, SSH tunnels  
+**DevOps & Quality:** Docker, GitHub Actions, CodeQL, Dependabot, Vercel  
+**AI Workflow Tools:** Cursor, Claude, OpenAI/LLM integrations, structured outputs
+
+---
+
+## What I Am Looking For
+
+I am open to long-term remote contracts, part-time engineering roles, and monthly retainer partnerships with startups, digital agencies, and operations-heavy businesses.
+
+I can help teams:
+
+- automate internal business processes
+- connect legacy systems with modern APIs
+- build reliable backend services and integration pipelines
+- add AI-assisted workflows with validation and predictable outputs
+- reduce manual data entry and operational mistakes
+
+---
+
+## Contact
+
+Portfolio: [https://artsiom.dev](https://artsiom.dev)  
+LinkedIn: [Artsiom Dziaineka](https://www.linkedin.com/in/artsiom-dziaineka-2b811829a)  
+Email: [bden5353@gmail.com](mailto:bden5353@gmail.com)
+
+---
+
+<p align="center">
+  Built around one idea: software should remove repetitive work and create measurable business value.
+</p>
