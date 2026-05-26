@@ -31,6 +31,9 @@ With a strong foundation in both enterprise architecture and agile microservices
 * [CentralHub — ImporterWaPro](https://github.com/ArtsiomJavaDev/centralhub-fin-hr-suite): Built a high-load payroll data bridge that automated complex B2B/B2C contract processing, reducing human error to 0% and saving the client $30,000/year in labor costs.
 
 ---
+### My website
+artsiom.dev
+
 
 ### ⚡ What I am Looking For
 
